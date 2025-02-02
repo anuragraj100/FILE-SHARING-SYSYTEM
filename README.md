@@ -22,4 +22,4 @@ View all uploaded files with their details
 Download files directly
 Generate shareable links that expire after 1 hour
 Delete files you no longer need
-The UI is clean and professional, with smooth animations and clear feedback for all actions. The system is production-ready and includes error handling, loading states, and proper security measures.# FILE-SHARING-SYSYTEM
+The UI is clean and professional, with smooth animations and clear feedback for all actions. The system is production-ready and includes error handling, loading states, and proper security measures.
